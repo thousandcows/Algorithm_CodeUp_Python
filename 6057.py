@@ -1,0 +1,8 @@
+a, b = input().split(' ')
+a = int(a)
+b = int(b)
+
+if bool(a) == bool(b) == False:
+    print('True')
+else:
+    print('False')
