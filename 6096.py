@@ -1,6 +1,4 @@
 # 바둑판 초기화
-# board = [[int(input()) for i in range(20)] for j in range(20)]
-
 board = []
 
 for i in range(20):
