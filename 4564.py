@@ -1,7 +1,3 @@
-import sys
-
-sys.setrecursionlimit(100000)
-
 stair = [0]
 # 1. Read the stairs
 n = int(input())
